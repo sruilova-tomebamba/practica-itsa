@@ -1,8 +1,8 @@
 ---
-name: Reporte de Bug"
+name: Reporte de Bug
 about: Crear un reporte de un bug encontrado
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
