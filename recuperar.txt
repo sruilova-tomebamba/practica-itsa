@@ -7,3 +7,4 @@ Aregagndo funcion comun para feats, desdede feature/calculadora
 Aregagndo funcion comun para feats, desdede feature/calculadora funcion (2)
 funcion formato fecha Api Payment
 hotfix agregado en produccion
+Arreglo en produccion #2 (hotfix)
