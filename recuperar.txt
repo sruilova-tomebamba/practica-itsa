@@ -1,4 +1,9 @@
 Inicio nueva rama compartida
 Recuperar
 Pull request test 2
-Pull request test 1
+funcion comun para ramas de feature
+funcion formatoArchivos comun, para feat
+Aregagndo funcion comun para feats, desdede feature/calculadora
+Aregagndo funcion comun para feats, desdede feature/calculadora funcion (2)
+funcion formato fecha Api Payment
+hotfix agregado en produccion
