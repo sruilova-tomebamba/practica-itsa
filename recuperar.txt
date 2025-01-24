@@ -4,3 +4,4 @@ Pull request test 2
 funcion comun para ramas de feature
 funcion formatoArchivos comun, para feat
 Aregagndo funcion comun para feats, desdede feature/calculadora
+Aregagndo funcion comun para feats, desdede feature/calculadora funcion (2)
