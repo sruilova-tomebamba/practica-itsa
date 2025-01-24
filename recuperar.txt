@@ -9,3 +9,4 @@ funcion formato fecha Api Payment
 hotfix agregado en produccion
 Arreglo en produccion #2 (hotfix)
 Arreglo en produccion #3 (hotfix)
+Arreglo en produccion #4 (hotfix)
