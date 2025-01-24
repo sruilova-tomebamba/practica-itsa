@@ -1,4 +1,4 @@
 Inicio nueva rama compartida
 Recuperar
 Pull request test 2
-Pull request test 1
+funcion comun para ramas de feature
