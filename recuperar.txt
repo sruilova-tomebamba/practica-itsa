@@ -2,3 +2,4 @@ Inicio nueva rama compartida
 Recuperar
 Pull request test 2
 funcion comun para ramas de feature
+funcion formatoArchivos comun, para feat
