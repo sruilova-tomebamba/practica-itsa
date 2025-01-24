@@ -1,4 +1,6 @@
-Revisando hooks 2
+//Borrando linea de hooks, agregando:
+def fucntionA():
+def functionB():
 def functionUno()
 def functionDos()
 def functionTres()
