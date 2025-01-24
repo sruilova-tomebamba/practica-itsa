@@ -2,3 +2,6 @@
 Arreglo en produccion #2 (hotfix)
 def fucntionA():
 def functionB():
+def functionUno()
+def functionDos()
+def functionTres()
